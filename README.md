@@ -22,6 +22,11 @@ Bu portföy, aşağıdaki derslerin çıktılarını içerir:
 
 Aşağıda, bu depoda yer alan projelerin listesi ve kısa açıklamaları bulunmaktadır. Detaylı teknik raporlar ve kodlar ilgili klasörlerin içindedir.
 
+### 🔹 [Basic System Identification (1st & 2nd Order)](./System-Identification-Basics)
+*(Ders: ME 4022)*
+* **Açıklama:** Bilinmeyen sistemlerin zaman domenindeki (Time-Domain) davranışlarını analizerek Transfer Fonksiyonu parametrelerinin ($K, \tau, \zeta, \omega_n$) tahmin edilmesi.
+* **Yöntem:** Adım Yanıtı (Step Response) Analizi ve Parametre Tahmini.
+
 ### 🔹 [System Identification using ARX](./System-Identification-ARX)
 *(Ders: ME 4022)*
 * **Açıklama:** "Kara Kutu" (Black Box) bir sistemin giriş-çıkış verilerini kullanarak matematiksel modelini oluşturmak için **Recursive Least Squares (RLS)** algoritması ve **ARX** model yapısı kullanılmıştır.
